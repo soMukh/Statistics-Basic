@@ -1,1 +1,2 @@
-# Statistics-Basic
+Module: Statistics Basic
+Assignment: Statistics Basic
